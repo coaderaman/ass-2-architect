@@ -94,11 +94,54 @@
 .experence-tag {
     text-align: center;
     background: tomato;
-    width: 20%;
+    width: 15%;
     margin: auto;
     border-radius: 5px;
     padding: 10px;
     margin-top: -200px;
     color: white;
     position: sticky;
+}
+
+/* Some facts ------
+------------------- */
+
+.fact-sec {
+    width: 80%;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.fact-pert {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.fact-item {
+    border: 1px solid gold;
+    padding: 10px;
+}
+
+/* Sponsor part --- */
+.sponsor-part-text {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.sponsor-name {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.footer {
+    background: lightblue;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 200px;
+    padding: 10px;
 }
