@@ -1,4 +1,49 @@
 * {
+    font-family: "Gill Sans", sans-serif;
     margin: 0;
     padding: 0;
+}
+
+/* Nave part */
+.nav-ber {
+    display: flex;
+    justify-content: space-between;
+    width: 85%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.nav-items {
+    display: flex;
+    list-style: none;
+
+}
+
+.nav-item {
+    margin-right: 20px;
+    font-size: 18px;
+}
+
+/* Header part */
+
+.header {
+    text-align: center;
+    margin: 100px;
+}
+
+.header-title {
+    margin-bottom: 15px;
+}
+
+.btn-praymary {
+    padding: 10px;
+    background: tomato;
+    border: none;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.header-img {
+    width: 100%;
+    margin-top: 30px;
 }
