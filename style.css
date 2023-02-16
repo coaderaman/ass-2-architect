@@ -68,3 +68,37 @@
     display: flex;
     align-items: center;
 }
+
+/* Service part */
+
+.service-part {
+    display: flex;
+    padding: 10%;
+}
+
+.service-part-title {
+    padding-left: 20px;
+    margin-bottom: 10px;
+    border-left: 3px solid gold;
+}
+
+.service-details {
+    margin-top: 40px;
+}
+
+.service-part-img {
+    margin-left: 10px;
+    padding: 10px;
+}
+
+.experence-tag {
+    text-align: center;
+    background: tomato;
+    width: 20%;
+    margin: auto;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: -200px;
+    color: white;
+    position: sticky;
+}
